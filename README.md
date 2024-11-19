@@ -1,4 +1,4 @@
-""" This personal learning assignment was inspired by the work at Northwood Space co.
+#This personal learning assignment was inspired by the work at Northwood Space co.
 
 Acknowledgments
 This project was developed as part of a learning exercise to understand TCP/IP communication and network simulation. Portions of the code and conceptual guidance were inspired by assistance from ChatGPT, an AI model by OpenAI.
@@ -22,4 +22,4 @@ Apply programming and visualization techniques:
 
 Strengthen Python programming skills.
 Create visual representations of theoretical networking concepts.
-This project provides a foundation for further exploration into distributed systems, networking protocols, and system reliability. """
+This project provides a foundation for further exploration into distributed systems, networking protocols, and system reliability. 
